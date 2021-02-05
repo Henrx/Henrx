@@ -3,7 +3,9 @@
 <!--
 **Henrx/Henrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrx&theme=<THEME_NAME>" />
+
+![](https://img.shields.io/badge/Discord-Link-informational?style=flat&logo=Henrx&logoColor=white&color=2bbc8a)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
