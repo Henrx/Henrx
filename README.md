@@ -10,7 +10,7 @@ Sou Henrx, um jovem curioso que está desbravando o mundo da programação pelo 
 
 
 ## Entre em contato comigo 📨
-![](https://img.shields.io/badge/Discord-Usuário-informational?style=flat&logo=discord&logoColor=white&color=db0000) • Henrx#4997
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="16px"> • Henrx#4997
 
 ## Estatísticas GitHub 📈
 
