@@ -3,7 +3,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrx&theme=<THEME_NAME>" />
 
-## 🔧 Tecnologias e Ferranebtas
+## 🔧 Tecnologias e Ferramentas
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=db0000)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=db0000)
 ![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=db0000)
@@ -11,13 +11,13 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=db0000)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; Estatísticas GitHub
 
 <a href="https://github.com/Henrx/Henrx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=bf0606&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Henrx/Henrx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=bf0606&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Henrx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=bf0606&bg_color=1d1f21" alt="Henrx • Git Status" />
 </a>
 
 <a href="https://github.com/Henrx/fivem">
