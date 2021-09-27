@@ -1,5 +1,5 @@
 # Saudações Comunidade <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Sou Henrx, um jovem curioso que está desbravando o mundo da programação pelo seu incessante interesse em lógica, desenvolvo aplicações de pequeno porte por amor e para conhecimentos gerais, espero que eu possa te ajudar com minhas contribuições aqui expostas!
+Sou Henrx, um jovem curioso que está inscrito no mundo do desenvolvimento!
 
 ## Tecnologias e Ferramentas 🔧
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=db0000)
